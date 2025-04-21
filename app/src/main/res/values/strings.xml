@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LetGoZhenshan</string>
+    <string name="main_title">Let\'s Fun 枕山</string>
+    <string name="main_depiction">挑戰、樂趣、驚喜連連！\n\n在這片充滿生機的枕山中，放慢腳步感受大自然的氣息，學習農業的知識，探索每一處藏著故事的角落，發掘專屬於你的美好回憶。\n</string>
+    <string name="main_button_text">Let\'s Go</string>
+    <string name="map_passpoint_text">"關卡:0  "</string>
+    <string name="map_getreward_button">結算獎勵</string>
+    <string name="game_depiction_title">枕山知多少?</string>
+    <string name="game_depiction_text">遊戲說明:\n\n了解枕頭山休區的相關知識後，在APP中會有5道選擇題。\n\n全部答對才能過關。</string>
+    <string name="test_Text">gggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg\ngggggggggggggggggggggggggggggggggg</string>
+    <string name="next_Page">下一頁</string>
+    <string name="back_Page">回去</string>
+    <string name="button_back">回上頁</string>
+    <string name="transportation">1.火車：\n
+搭乘北迴線火車至宜蘭火車站，轉乘宜興客運往大礁溪方向在枕山站下車即可到達。\n
+2.客運：\n
+搭乘國光客運至宜蘭火車站，轉乘宜興客運往大礁溪方向在枕山站下車即可到達。
+</string>
+    <string name="note">1.本流程可採用低碳騎乘腳踏車的方法進行，若需要租借腳踏車請事先洽詢。\n
+2.整場活動流程跑完大概花費3小時。
+
+</string>
+    <string name="question_mark">\?</string>
+</resources>

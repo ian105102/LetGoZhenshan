@@ -1,0 +1,11 @@
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+
+    <solid android:color="#B383FF52"/>
+    <!-- 圓角 -->
+    <corners android:radius="16dp"/>
+
+    <!-- 邊框顏色與寬度 -->
+    <stroke android:color="#000000" android:width="0dp"/>
+</shape>

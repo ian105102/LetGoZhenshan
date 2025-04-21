@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LetGoZhenshan"
+        tools:targetApi="31">
+        <activity
+            android:name=".Stage5.WalkingGmaeDepiction"
+            android:exported="false" />
+        <activity
+            android:name=".Stage4.MuquSucculentjoyFarmDepiction"
+            android:exported="false" />
+        <activity
+            android:name=".Stage3.InsectGameDepiction"
+            android:exported="false" />
+        <activity
+            android:name=".Stage2.MemoryGameDepiction"
+            android:exported="false" />
+        <activity
+            android:name=".Utility.Note"
+            android:exported="false" />
+        <activity
+            android:name=".Utility.Transportation"
+            android:exported="false" />
+        <activity
+            android:name=".MainMenu"
+            android:exported="false" />
+        <activity
+            android:name=".Summary.Summary"
+            android:exported="false" />
+        <activity
+            android:name=".Stage4.MuquSucculentJoyFarmGame"
+            android:exported="false" />
+        <activity
+            android:name=".Stage5.WalkingGame"
+            android:exported="false" />
+        <activity
+            android:name=".Stage3.InsectGame"
+            android:exported="false" />
+        <activity
+            android:name=".Stage2.FlowerIntroduction"
+            android:exported="false" />
+        <activity
+            android:name=".Stage2.MemoryGame"
+            android:exported="false" />
+        <activity
+            android:name=".Stage1.Results"
+            android:exported="false" />
+        <activity
+            android:name=".Stage1.ServiceGame"
+            android:exported="false" />
+        <activity
+            android:name=".Stage1.ServiceCenterGameDepiction"
+            android:exported="false" />
+        <activity
+            android:name=".Stage1.ServiceCenterDepiction"
+            android:exported="false" />
+        <activity
+            android:name=".MainMap"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
